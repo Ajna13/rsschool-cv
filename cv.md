@@ -1,12 +1,9 @@
 1. Alla Sviatluhina
 2. Telegram @Ajna13
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+3. Я хочу изменить свою жизнь. Это желание возникло не так давно, так как меня устраивала моя работа системного администратора. Там я училась всему сама и мне это было интересно. Недавно я поняла, что хочу сменить направление, получить новые знания, хочу путешествовать и расширять свой кругозор. Ксожалению, моя работа не дает мне такой возможности. Поэтому я стремлюсь получить как можно больше знаний. Для этого я начала учиться, а этот курс мне показался сложным и интересным. Я люблю головоломки, а преодоление трудностей делают меня сильнее.
+Моя цель - это получить как можно больше знаний за этот курс. Я лучше пойму, что значит быть разработчиком и, если это то, что мне нужно, то именно с этими знаниями буду трудоустраиваться.
+4. Я еще вначале пути, но работаю с HTML.
 5. ```console.log('Hello, World');```
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+6. Администрирую рабочий сайт.
+7. Белорусский государственный аграрный технический университет, инженер по автоматизации, курсы системного администратора, курсы CMS "Web.Perspective".
+8. Учила английский в школе и университете. На данный момент учу его самостоятельно.
