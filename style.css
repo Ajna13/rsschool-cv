@@ -1,0 +1,32 @@
+body {
+  background-color: #7f5c7f66;
+}
+
+h1 {
+  text-align: center;
+  color: #593d7f;
+}
+
+img {
+  box-shadow: -19px 0 22px -19px #000, 19px 0 22px -19px #000;
+}
+
+li {
+  width: 100%;
+  margin: 10px 0;
+  text-align: justify;
+}
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #e6e6fa;
+  font-family: Arial, sans-serif;
+  color: #612c30;
+}
+
+.contact {
+  font-size: 1.2em;
+  font-weight: bold;
+}
