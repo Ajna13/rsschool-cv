@@ -1,9 +1,7 @@
-1. Alla Sviatluhina
-2. Telegram @Ajna13
-3. Я хочу изменить свою жизнь. Это желание возникло не так давно, так как меня устраивала моя работа системного администратора. Там я училась всему сама и мне это было интересно. Недавно я поняла, что хочу сменить направление, получить новые знания, хочу путешествовать и расширять свой кругозор. Ксожалению, моя работа не дает мне такой возможности. Поэтому я стремлюсь получить как можно больше знаний. Для этого я начала учиться, а этот курс мне показался сложным и интересным. Я люблю головоломки, а преодоление трудностей делают меня сильнее.
-Моя цель - это получить как можно больше знаний за этот курс. Я лучше пойму, что значит быть разработчиком и, если это то, что мне нужно, то именно с этими знаниями буду трудоустраиваться.
-4. Я еще вначале пути, но работаю с HTML.
-5. ```console.log('Hello, World');```
-6. Администрирую рабочий сайт.
-7. Белорусский государственный аграрный технический университет, инженер по автоматизации, курсы системного администратора, курсы CMS "Web.Perspective".
-8. Учила английский в школе и университете. На данный момент учу его самостоятельно.
+ALLA SVIATLUHINA FRONTEND DEVELOPER
+Telegram @Ajna13
+Hello! I am a system administrator and I love my job, but I also enjoy programming. I study and try different directions, I wonder what kind of work I like more. And the RS School provides an opportunity to learn new things, to test myself in practice. My goal is to be a frontend developer HTML5, CSS3б, Python3, JavaScript, Django, Git/Github, SQL/MySQL, Linux
+Я еще вначале пути, но работаю с HTML.
+console.log('Hello, World');
+European Educational Center "S.M.A.R.T." System Administrator CMS "Web.Perspective" IT Overone Python Belarusian Agrarian Technical University - Automation of production processes
+A2 (English courses)
