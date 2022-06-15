@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <title>cv</title>
+</head>
+<body>
+  <header class = "header">
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+        <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+        <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+        <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+        <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+        <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+        <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class = "main">
+    <div class="container main-container">
+      <div class="section"> <img class="my-photo" src="sviat.JPEG" width="240" alt="my photo"></div>
+      <section class="section" id="profile">
+        <div class="proile-title">
+          <h1 class="section-title">Alla Sviatluhina</h1>
+          <h3 class="section-title">frontend developer</h3>
+        </div>
+      </section>
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contacts</h2>
+        <ul class="section-list">
+          <li class="section-item">Minsk, Belarus</li>
+          <li class="section-item">Email: sviatt1313@gmail.com</li>
+          <li class="section-item">Telegram: @Ajna13</li>
+          <li class="section-item">Discord: @Ajna13#8135</li>
+          <li class="section-item">Github: @Ajna13</li>
+        </ul>
+      </section>
+      <section class="section" id="summary">
+        <h2 class="section-title">Summary</h2>
+        <p>Hello! I am a system administrator and I love my job, but I also enjoy programming. I study and try different directions, I wonder what kind of work I like more. And the RS School provides an opportunity to learn new things, to test myself in practice. My goal is to be a frontend developer</p>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul class="section-list">
+          <li class="section-item">HTML5, CSS3</li>
+          <li class="section-item">Python3, JavaScript</li>
+          <li class="section-item">Django</li>
+          <li class="section-item">Git/Github</li>
+          <li class="section-item">SQL/MySQL</li>
+          <li class="section-item">Linux</li>
+        </ul>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code</h2>
+        <pre class="pre">
+function checkParent (src, dest) {
+  while (src != null) 
+  {
+    if (src.tagName == dest) return src
+    src = src.parentElement}
+  return null}
+        </pre>
+      </section>
+      <section class="section" id="courses">
+        <h2 class="section-title">Courses</h2>
+        <ul class="section-list">
+          <li class="section-item">European Educational Center "S.M.A.R.T." System Administrator</li>
+          <li class="section-item">CMS "Web.Perspective"</li>
+          <li class="section-item">IT Overone Python</li>
+        </ul>
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education</h2>
+        <ul class="section-list">
+          <li class="section-item">Belarusian Agrarian Technical University - Automation of production processes</li>
+        </ul>
+      </section>
+      <section class="section" id="english">
+        <h2 class="section-title">English</h2>
+        <ul class="section-list">
+          <li class="section-item">A2 (English courses)</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <section class="container footer-container">
+      <div class="footer-item">
+        <a href="https://github.com/Ajna13" target="_blank">
+          <img src="github-logo.png" alt="My Github" class="github-logo">
+        </a>
+      </div>
+      <div class="footer-item">
+        <p class="date">2022</p>
+      </div>
+      <div class="footer-item">
+        <a href="https://rs.school/js/" target="_blank">
+          <img src="rs_school_js_logo.svg" alt="Course «JavaScript/Front-end»" class="rss-logo">
+        </a>
+      </div>
+    </section>
+  </footer>
+</body>
+</html>
